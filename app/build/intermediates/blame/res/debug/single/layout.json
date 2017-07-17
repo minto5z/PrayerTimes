@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qibla.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\qibla.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hijri.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\hijri.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_form.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\activity_login_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\options.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\next.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayervideo.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\mediaplayervideo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\layout\\video.xml"
+    }
+]

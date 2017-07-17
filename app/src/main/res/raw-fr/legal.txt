@@ -1,0 +1,4 @@
+It is a software distributed under the terms
+The GNU General Public License 3
+(Http://www.gnu.org/licenses/gpl-3.0.html)
+Desing: Mahadiur Jaman, Tangail,Bangladesh.

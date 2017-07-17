@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\MahadiurJaman\\Downloads\\Compressed\\salatAndroid-master\\salatAndroid-master\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    }
+]
